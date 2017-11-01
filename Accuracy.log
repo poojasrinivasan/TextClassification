@@ -1,0 +1,303 @@
+INFO:root:
+ 	 Class Names: ['comp.os.ms-windows.misc', 'sci.crypt', 'rec.sport.baseball', 'alt.atheism', 'sci.space'] , 
+ 	 Accuracy : 81.11%
+INFO:root:
+ 	 Class Names: ['rec.autos', 'sci.space', 'talk.politics.misc', 'talk.politics.mideast', 'talk.politics.guns'] , 
+ 	 Accuracy : 84.46%
+INFO:root:
+ 	 Class Names: ['sci.space', 'rec.autos', 'soc.religion.christian', 'misc.forsale', 'sci.med'] , 
+ 	 Accuracy : 87.64%
+INFO:root:
+ 	 Class Names: ['comp.sys.mac.hardware', 'talk.politics.misc', 'rec.sport.hockey', 'comp.os.ms-windows.misc', 'comp.graphics'] , 
+ 	 Accuracy : 75.76%
+INFO:root:
+ 	 Class Names: ['rec.sport.baseball', 'rec.sport.hockey', 'rec.motorcycles', 'comp.sys.mac.hardware', 'talk.religion.misc'] , 
+ 	 Accuracy : 92.19%
+INFO:root:
+ 	 Class Names: ['rec.sport.baseball', 'talk.politics.guns', 'rec.sport.hockey', 'comp.windows.x', 'sci.electronics'] , 
+ 	 Accuracy : 88.96%
+INFO:root:
+ 	 Class Names: ['comp.os.ms-windows.misc', 'sci.electronics', 'soc.religion.christian', 'rec.autos', 'sci.med'] , 
+ 	 Accuracy : 83.76%
+INFO:root:
+ 	 Class Names: ['comp.graphics', 'sci.electronics', 'sci.med', 'talk.politics.mideast', 'rec.motorcycles'] , 
+ 	 Accuracy : 87.86%
+INFO:root:
+ 	 Class Names: ['talk.politics.mideast', 'alt.atheism', 'comp.sys.ibm.pc.hardware', 'rec.sport.hockey', 'soc.religion.christian'] , 
+ 	 Accuracy : 90.66%
+INFO:root:
+ 	 Class Names: ['rec.autos', 'comp.graphics', 'comp.os.ms-windows.misc', 'rec.sport.hockey', 'comp.sys.ibm.pc.hardware'] , 
+ 	 Accuracy : 78.02%
+INFO:root:
+ 	 Class Names: ['alt.atheism', 'sci.space', 'sci.crypt', 'talk.politics.guns', 'rec.sport.baseball'] , 
+ 	 Accuracy : 91.44%
+INFO:root:
+ 	 Class Names: ['talk.politics.mideast', 'rec.sport.hockey', 'talk.politics.guns', 'soc.religion.christian', 'sci.space'] , 
+ 	 Accuracy : 91.35%
+INFO:root:
+ 	 Class Names: ['talk.politics.mideast', 'sci.space', 'comp.graphics', 'alt.atheism', 'comp.windows.x'] , 
+ 	 Accuracy : 85.74%
+INFO:root:
+ 	 Class Names: ['rec.sport.baseball', 'soc.religion.christian', 'alt.atheism', 'comp.sys.mac.hardware', 'talk.politics.misc'] , 
+ 	 Accuracy : 86.18%
+INFO:root:
+ 	 Class Names: ['misc.forsale', 'comp.sys.ibm.pc.hardware', 'comp.os.ms-windows.misc', 'sci.space', 'sci.crypt'] , 
+ 	 Accuracy : 68.72%
+INFO:root:
+ 	 Class Names: ['sci.crypt', 'talk.politics.misc', 'rec.motorcycles', 'soc.religion.christian', 'rec.sport.baseball'] , 
+ 	 Accuracy : 92.15%
+INFO:root:
+ 	 Class Names: ['rec.sport.hockey', 'talk.religion.misc', 'rec.autos', 'talk.politics.mideast', 'comp.windows.x'] , 
+ 	 Accuracy : 90.04%
+INFO:root:
+ 	 Class Names: ['comp.sys.ibm.pc.hardware', 'comp.windows.x', 'rec.sport.baseball', 'talk.politics.guns', 'sci.space'] , 
+ 	 Accuracy : 91.56%
+INFO:root:
+ 	 Class Names: ['comp.graphics', 'talk.religion.misc', 'comp.sys.mac.hardware', 'alt.atheism', 'comp.os.ms-windows.misc'] , 
+ 	 Accuracy : 70.43%
+INFO:root:
+ 	 Class Names: ['sci.crypt', 'talk.politics.guns', 'rec.autos', 'talk.politics.misc', 'talk.religion.misc'] , 
+ 	 Accuracy : 83.23%
+INFO:root:
+ 	 Class Names: ['sci.electronics', 'soc.religion.christian', 'sci.med', 'talk.politics.guns', 'misc.forsale'] , 
+ 	 Accuracy : 85.83%
+INFO:root:
+ 	 Class Names: ['rec.motorcycles', 'comp.sys.ibm.pc.hardware', 'sci.med', 'alt.atheism', 'misc.forsale'] , 
+ 	 Accuracy : 87.76%
+INFO:root:
+ 	 Class Names: ['comp.windows.x', 'misc.forsale', 'comp.sys.ibm.pc.hardware', 'rec.sport.baseball', 'talk.politics.misc'] , 
+ 	 Accuracy : 82.59%
+INFO:root:
+ 	 Class Names: ['comp.windows.x', 'rec.motorcycles', 'talk.politics.mideast', 'soc.religion.christian', 'talk.religion.misc'] , 
+ 	 Accuracy : 85.31%
+INFO:root:
+ 	 Class Names: ['comp.sys.mac.hardware', 'sci.med', 'alt.atheism', 'sci.crypt', 'rec.autos'] , 
+ 	 Accuracy : 87.21%
+INFO:root:
+ 	 Class Names: ['comp.graphics', 'rec.sport.baseball', 'soc.religion.christian', 'sci.crypt', 'rec.sport.hockey'] , 
+ 	 Accuracy : 88.38%
+INFO:root:
+ 	 Class Names: ['sci.med', 'talk.religion.misc', 'misc.forsale', 'comp.graphics', 'comp.windows.x'] , 
+ 	 Accuracy : 81.22%
+INFO:root:
+ 	 Class Names: ['rec.motorcycles', 'sci.space', 'comp.windows.x', 'comp.graphics', 'talk.politics.misc'] , 
+ 	 Accuracy : 85.63%
+INFO:root:
+ 	 Class Names: ['talk.politics.mideast', 'comp.graphics', 'rec.motorcycles', 'comp.sys.ibm.pc.hardware', 'misc.forsale'] , 
+ 	 Accuracy : 83.5%
+INFO:root:
+ 	 Class Names: ['sci.space', 'alt.atheism', 'rec.sport.hockey', 'comp.sys.mac.hardware', 'rec.sport.baseball'] , 
+ 	 Accuracy : 90.39%
+INFO:root:
+ 	 Class Names: ['talk.politics.mideast', 'comp.windows.x', 'talk.politics.misc', 'sci.space', 'comp.sys.ibm.pc.hardware'] , 
+ 	 Accuracy : 85.38%
+INFO:root:
+ 	 Class Names: ['comp.windows.x', 'rec.sport.hockey', 'comp.graphics', 'talk.politics.mideast', 'talk.politics.misc'] , 
+ 	 Accuracy : 83.2%
+INFO:root:
+ 	 Class Names: ['alt.atheism', 'rec.sport.baseball', 'talk.politics.misc', 'comp.graphics', 'comp.os.ms-windows.misc'] , 
+ 	 Accuracy : 79.38%
+INFO:root:
+ 	 Class Names: ['rec.autos', 'comp.sys.mac.hardware', 'comp.os.ms-windows.misc', 'sci.med', 'sci.electronics'] , 
+ 	 Accuracy : 77.9%
+INFO:root:
+ 	 Class Names: ['comp.os.ms-windows.misc', 'talk.religion.misc', 'talk.politics.guns', 'soc.religion.christian', 'rec.motorcycles'] , 
+ 	 Accuracy : 78.73%
+INFO:root:
+ 	 Class Names: ['soc.religion.christian', 'comp.os.ms-windows.misc', 'sci.crypt', 'comp.graphics', 'comp.windows.x'] , 
+ 	 Accuracy : 71.35%
+INFO:root:
+ 	 Class Names: ['comp.os.ms-windows.misc', 'rec.sport.baseball', 'sci.med', 'comp.sys.ibm.pc.hardware', 'sci.electronics'] , 
+ 	 Accuracy : 77.03%
+INFO:root:
+ 	 Class Names: ['talk.politics.mideast', 'sci.electronics', 'rec.sport.hockey', 'sci.med', 'comp.graphics'] , 
+ 	 Accuracy : 88.79%
+INFO:root:
+ 	 Class Names: ['comp.windows.x', 'rec.sport.hockey', 'sci.crypt', 'misc.forsale', 'talk.politics.mideast'] , 
+ 	 Accuracy : 87.83%
+INFO:root:
+ 	 Class Names: ['comp.graphics', 'rec.autos', 'soc.religion.christian', 'rec.motorcycles', 'comp.os.ms-windows.misc'] , 
+ 	 Accuracy : 81.77%
+INFO:root:
+ 	 Class Names: ['rec.motorcycles', 'sci.space', 'sci.crypt', 'soc.religion.christian', 'sci.electronics'] , 
+ 	 Accuracy : 87.01%
+INFO:root:
+ 	 Class Names: ['sci.space', 'talk.politics.misc', 'rec.autos', 'soc.religion.christian', 'talk.politics.guns'] , 
+ 	 Accuracy : 87.92%
+INFO:root:
+ 	 Class Names: ['sci.space', 'sci.electronics', 'misc.forsale', 'talk.religion.misc', 'soc.religion.christian'] , 
+ 	 Accuracy : 79.79%
+INFO:root:
+ 	 Class Names: ['misc.forsale', 'sci.med', 'rec.autos', 'rec.motorcycles', 'alt.atheism'] , 
+ 	 Accuracy : 87.47%
+INFO:root:
+ 	 Class Names: ['comp.os.ms-windows.misc', 'rec.autos', 'soc.religion.christian', 'talk.politics.guns', 'sci.crypt'] , 
+ 	 Accuracy : 82.91%
+INFO:root:
+ 	 Class Names: ['misc.forsale', 'sci.crypt', 'comp.sys.mac.hardware', 'rec.sport.hockey', 'comp.graphics'] , 
+ 	 Accuracy : 78.46%
+INFO:root:
+ 	 Class Names: ['alt.atheism', 'comp.graphics', 'misc.forsale', 'rec.sport.hockey', 'talk.politics.mideast'] , 
+ 	 Accuracy : 88.09%
+INFO:root:
+ 	 Class Names: ['comp.windows.x', 'talk.religion.misc', 'sci.space', 'comp.graphics', 'talk.politics.misc'] , 
+ 	 Accuracy : 81.43%
+INFO:root:
+ 	 Class Names: ['rec.motorcycles', 'talk.politics.misc', 'rec.autos', 'comp.sys.mac.hardware', 'soc.religion.christian'] , 
+ 	 Accuracy : 89.24%
+INFO:root:
+ 	 Class Names: ['comp.windows.x', 'sci.space', 'talk.politics.mideast', 'alt.atheism', 'rec.sport.baseball'] , 
+ 	 Accuracy : 91.49%
+INFO:root:
+ 	 Class Names: ['sci.space', 'comp.graphics', 'talk.religion.misc', 'misc.forsale', 'comp.sys.mac.hardware'] , 
+ 	 Accuracy : 81.81%
+INFO:root:
+ 	 Class Names: ['comp.sys.mac.hardware', 'sci.med', 'soc.religion.christian', 'talk.religion.misc', 'misc.forsale'] , 
+ 	 Accuracy : 76.1%
+INFO:root:
+ 	 Class Names: ['comp.windows.x', 'soc.religion.christian', 'talk.politics.mideast', 'rec.sport.baseball', 'talk.politics.misc'] , 
+ 	 Accuracy : 88.01%
+INFO:root:
+ 	 Class Names: ['soc.religion.christian', 'talk.politics.guns', 'comp.sys.mac.hardware', 'comp.os.ms-windows.misc', 'comp.graphics'] , 
+ 	 Accuracy : 76.84%
+INFO:root:
+ 	 Class Names: ['comp.sys.mac.hardware', 'comp.graphics', 'rec.autos', 'comp.os.ms-windows.misc', 'talk.politics.guns'] , 
+ 	 Accuracy : 76.09%
+INFO:root:
+ 	 Class Names: ['talk.politics.guns', 'rec.sport.baseball', 'soc.religion.christian', 'comp.graphics', 'talk.politics.misc'] , 
+ 	 Accuracy : 86.38%
+INFO:root:
+ 	 Class Names: ['rec.sport.hockey', 'soc.religion.christian', 'alt.atheism', 'sci.electronics', 'misc.forsale'] , 
+ 	 Accuracy : 86.84%
+INFO:root:
+ 	 Class Names: ['comp.sys.ibm.pc.hardware', 'talk.politics.mideast', 'comp.sys.mac.hardware', 'sci.space', 'talk.politics.guns'] , 
+ 	 Accuracy : 82.0%
+INFO:root:
+ 	 Class Names: ['talk.politics.mideast', 'comp.graphics', 'rec.autos', 'comp.windows.x', 'comp.os.ms-windows.misc'] , 
+ 	 Accuracy : 73.28%
+INFO:root:
+ 	 Class Names: ['sci.electronics', 'comp.windows.x', 'sci.crypt', 'sci.space', 'rec.autos'] , 
+ 	 Accuracy : 85.87%
+INFO:root:
+ 	 Class Names: ['rec.motorcycles', 'soc.religion.christian', 'sci.electronics', 'talk.politics.guns', 'comp.sys.mac.hardware'] , 
+ 	 Accuracy : 89.32%
+INFO:root:
+ 	 Class Names: ['rec.autos', 'sci.space', 'comp.graphics', 'talk.politics.mideast', 'talk.religion.misc'] , 
+ 	 Accuracy : 86.88%
+INFO:root:
+ 	 Class Names: ['sci.crypt', 'comp.sys.mac.hardware', 'sci.electronics', 'talk.politics.guns', 'talk.politics.misc'] , 
+ 	 Accuracy : 77.27%
+INFO:root:
+ 	 Class Names: ['talk.politics.misc', 'talk.religion.misc', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'comp.sys.mac.hardware'] , 
+ 	 Accuracy : 68.71%
+INFO:root:
+ 	 Class Names: ['talk.politics.misc', 'rec.motorcycles', 'comp.graphics', 'sci.med', 'soc.religion.christian'] , 
+ 	 Accuracy : 89.21%
+INFO:root:
+ 	 Class Names: ['rec.sport.hockey', 'talk.politics.mideast', 'talk.religion.misc', 'rec.autos', 'sci.space'] , 
+ 	 Accuracy : 88.99%
+INFO:root:
+ 	 Class Names: ['sci.crypt', 'comp.sys.ibm.pc.hardware', 'sci.electronics', 'rec.sport.baseball', 'soc.religion.christian'] , 
+ 	 Accuracy : 84.62%
+INFO:root:
+ 	 Class Names: ['soc.religion.christian', 'sci.space', 'talk.politics.misc', 'sci.crypt', 'rec.sport.baseball'] , 
+ 	 Accuracy : 90.71%
+INFO:root:
+ 	 Class Names: ['comp.graphics', 'rec.motorcycles', 'sci.med', 'rec.sport.hockey', 'comp.sys.mac.hardware'] , 
+ 	 Accuracy : 90.75%
+INFO:root:
+ 	 Class Names: ['talk.politics.guns', 'sci.space', 'rec.autos', 'sci.crypt', 'soc.religion.christian'] , 
+ 	 Accuracy : 92.25%
+INFO:root:
+ 	 Class Names: ['talk.politics.mideast', 'sci.crypt', 'soc.religion.christian', 'rec.sport.hockey', 'sci.electronics'] , 
+ 	 Accuracy : 89.35%
+INFO:root:
+ 	 Class Names: ['rec.motorcycles', 'sci.crypt', 'comp.sys.ibm.pc.hardware', 'sci.electronics', 'rec.sport.baseball'] , 
+ 	 Accuracy : 84.51%
+INFO:root:
+ 	 Class Names: ['soc.religion.christian', 'talk.politics.guns', 'comp.windows.x', 'comp.sys.ibm.pc.hardware', 'talk.religion.misc'] , 
+ 	 Accuracy : 83.94%
+INFO:root:
+ 	 Class Names: ['talk.politics.misc', 'sci.med', 'rec.motorcycles', 'talk.religion.misc', 'comp.graphics'] , 
+ 	 Accuracy : 86.24%
+INFO:root:
+ 	 Class Names: ['talk.politics.mideast', 'rec.sport.baseball', 'soc.religion.christian', 'rec.sport.hockey', 'comp.os.ms-windows.misc'] , 
+ 	 Accuracy : 84.42%
+INFO:root:
+ 	 Class Names: ['sci.space', 'sci.crypt', 'comp.graphics', 'rec.sport.hockey', 'rec.autos'] , 
+ 	 Accuracy : 90.27%
+INFO:root:
+ 	 Class Names: ['rec.sport.baseball', 'sci.med', 'sci.space', 'alt.atheism', 'rec.sport.hockey'] , 
+ 	 Accuracy : 90.76%
+INFO:root:
+ 	 Class Names: ['sci.med', 'comp.windows.x', 'rec.sport.hockey', 'sci.electronics', 'misc.forsale'] , 
+ 	 Accuracy : 85.86%
+INFO:root:
+ 	 Class Names: ['misc.forsale', 'talk.politics.mideast', 'comp.windows.x', 'talk.politics.guns', 'comp.sys.mac.hardware'] , 
+ 	 Accuracy : 79.58%
+INFO:root:
+ 	 Class Names: ['rec.sport.baseball', 'rec.autos', 'comp.os.ms-windows.misc', 'alt.atheism', 'comp.sys.mac.hardware'] , 
+ 	 Accuracy : 82.6%
+INFO:root:
+ 	 Class Names: ['soc.religion.christian', 'rec.sport.hockey', 'talk.politics.misc', 'rec.autos', 'misc.forsale'] , 
+ 	 Accuracy : 88.75%
+INFO:root:
+ 	 Class Names: ['talk.politics.guns', 'talk.politics.misc', 'alt.atheism', 'talk.religion.misc', 'sci.space'] , 
+ 	 Accuracy : 78.69%
+INFO:root:
+ 	 Class Names: ['comp.sys.mac.hardware', 'talk.religion.misc', 'rec.autos', 'sci.space', 'comp.sys.ibm.pc.hardware'] , 
+ 	 Accuracy : 84.71%
+INFO:root:
+ 	 Class Names: ['talk.religion.misc', 'comp.windows.x', 'talk.politics.mideast', 'comp.sys.ibm.pc.hardware', 'sci.crypt'] , 
+ 	 Accuracy : 83.54%
+INFO:root:
+ 	 Class Names: ['alt.atheism', 'talk.religion.misc', 'talk.politics.mideast', 'sci.electronics', 'rec.sport.baseball'] , 
+ 	 Accuracy : 83.06%
+INFO:root:
+ 	 Class Names: ['rec.motorcycles', 'misc.forsale', 'rec.autos', 'soc.religion.christian', 'comp.os.ms-windows.misc'] , 
+ 	 Accuracy : 81.93%
+INFO:root:
+ 	 Class Names: ['misc.forsale', 'sci.med', 'talk.politics.mideast', 'sci.crypt', 'rec.autos'] , 
+ 	 Accuracy : 85.41%
+INFO:root:
+ 	 Class Names: ['misc.forsale', 'talk.politics.guns', 'talk.politics.mideast', 'comp.windows.x', 'talk.religion.misc'] , 
+ 	 Accuracy : 81.42%
+INFO:root:
+ 	 Class Names: ['comp.os.ms-windows.misc', 'rec.sport.baseball', 'sci.med', 'soc.religion.christian', 'talk.religion.misc'] , 
+ 	 Accuracy : 76.91%
+INFO:root:
+ 	 Class Names: ['comp.sys.mac.hardware', 'misc.forsale', 'rec.sport.hockey', 'sci.crypt', 'talk.religion.misc'] , 
+ 	 Accuracy : 80.12%
+INFO:root:
+ 	 Class Names: ['misc.forsale', 'sci.crypt', 'talk.politics.mideast', 'rec.autos', 'sci.electronics'] , 
+ 	 Accuracy : 81.45%
+INFO:root:
+ 	 Class Names: ['comp.sys.ibm.pc.hardware', 'rec.motorcycles', 'rec.autos', 'sci.electronics', 'rec.sport.baseball'] , 
+ 	 Accuracy : 89.17%
+INFO:root:
+ 	 Class Names: ['comp.os.ms-windows.misc', 'sci.electronics', 'talk.politics.guns', 'comp.windows.x', 'sci.crypt'] , 
+ 	 Accuracy : 72.04%
+INFO:root:
+ 	 Class Names: ['talk.politics.misc', 'talk.politics.mideast', 'rec.motorcycles', 'comp.graphics', 'sci.med'] , 
+ 	 Accuracy : 84.64%
+INFO:root:
+ 	 Class Names: ['talk.religion.misc', 'talk.politics.guns', 'soc.religion.christian', 'alt.atheism', 'rec.sport.hockey'] , 
+ 	 Accuracy : 81.11%
+INFO:root:
+ 	 Class Names: ['sci.med', 'rec.sport.baseball', 'sci.electronics', 'sci.crypt', 'sci.space'] , 
+ 	 Accuracy : 85.32%
+INFO:root:
+ 	 Class Names: ['comp.os.ms-windows.misc', 'sci.electronics', 'alt.atheism', 'misc.forsale', 'comp.windows.x'] , 
+ 	 Accuracy : 71.29%
+INFO:root:
+ 	 Class Names: ['sci.space', 'comp.os.ms-windows.misc', 'talk.politics.mideast', 'comp.sys.ibm.pc.hardware', 'talk.religion.misc'] , 
+ 	 Accuracy : 74.54%
+INFO:root:
+ 	 Class Names: ['sci.space', 'rec.sport.baseball', 'misc.forsale', 'rec.motorcycles', 'comp.graphics'] , 
+ 	 Accuracy : 88.47%
+INFO:root:
+ 	 Class Names: ['rec.motorcycles', 'comp.windows.x', 'comp.graphics', 'talk.religion.misc', 'talk.politics.misc'] , 
+ 	 Accuracy : 83.25%
+INFO:root:
+ 	 Class Names: ['talk.politics.mideast', 'rec.autos', 'rec.motorcycles', 'rec.sport.hockey', 'talk.politics.guns'] , 
+ 	 Accuracy : 89.81%
